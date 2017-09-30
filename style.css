@@ -1,0 +1,21 @@
+body{
+    
+    background-image:url(eberhard-grossgasteiger-348503.jpg);
+background-position: center center
+    background-size: contain
+}
+p {
+     color: aqua;
+}
+p.white{
+    
+    color: white
+}
+#bigger-text{
+    font-size: 36px
+
+}
+
+#cursive{
+    font-family: 'Germania One', cursive;
+}
